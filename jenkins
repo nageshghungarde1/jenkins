@@ -1,0 +1,26 @@
+jenkins installation steps
+http://www.scmgalaxy.com/tutorials/complete-guide-of-java-installation-in-linux/
+https://www.devopsschool.com/tutorial/jenkins/jenkins-installation-and-configuration.html
+jenkins config file ( to change port ) /etc/sysconfig/jenkins
+jenkins config file ( to change port ) /etc/sysconfig/jenkins
+http://www.scmgalaxy.com/tutorials/complete-guide-of-java-installation-in-linux/
+http://www.scmgalaxy.com/tutorials/complete-guide-of-java-installation-in-linux/
+
+https://www.devopsschool.com/tutorial/jenkins/jenkins-installation-and-configuration.html
+
+installing jenkins under tomcat
+cd /opt
+5 wget http://mirrors.estointernet.in/apache/tomcat/tomcat-9/v9.0.27/bin/apache-tomcat-9.0.27.tar.gz
+6 ls
+7 tar -xvf apache-tomcat-9.0.27.tar.gz
+8 ls
+9 cd apache-tomcat-9.0.27
+10 cd webapps/
+11 ls
+12 wget http://mirrors.jenkins.io/war-stable/latest/jenkins.war
+13 cd …/bin
+14 ls
+15 ./startup.sh
+----------------------------------------
+
+https://binaries.sonarsource.com/Distribution/sonarqube/sonarqube-6.2.zip
